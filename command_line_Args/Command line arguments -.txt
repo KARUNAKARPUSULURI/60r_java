@@ -1,0 +1,79 @@
+Command line arguments :- 
+
+2, 2 -> 
+method(int age, String name){
+	2 + 2
+}
+4
+method(23, "sai kumar") //inputs -> input values -> arguments
+
+parameters :- Parameters are nothing but, to store values or hold values which are passed through, or during method calling
+
+method :- collection of statements which are used to perform a task -> 
+
+main -> method name
+() -> parenthesis
+{} -> blocks
+main(){} -> method declaration or method definition
+personDetails(){} -> method declaration or method definition
+method calling OR method invokation -> personDetails()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-> Command line arguments :- 
+
+2, 2 -> 
+method(int age, String name){
+	2 + 2
+}
+4
+method(23, "sai kumar") //inputs -> input values -> arguments
+
+parameters :- Parameters are nothing but, to store values or hold values which are passed through, or during method calling
+
+method :- collection of statements which are used to perform a task -> 
+
+main -> method name
+() -> parenthesis
+{} -> blocks
+main(){} -> method declaration or method definition
+personDetails(){} -> method declaration or method definition
+method calling OR method invokation -> personDetails()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-> 
